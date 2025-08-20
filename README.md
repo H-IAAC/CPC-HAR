@@ -64,6 +64,9 @@ This command runs `python evaluate_with_classifier.py` for all four target datas
 
 ## License
 
+This is a modified version of the original program.
+Modified by: Betania Eugenia Rodrigues da Silva
+Date: 1/10/2024  
 This software is released under the GNU General Public License v3.0.
 
 ## Repositories Utilized in This Project
